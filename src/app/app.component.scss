@@ -1,0 +1,24 @@
+.online {
+    background: rgb(6, 167, 92);
+}
+
+.offline {
+    background: rgb(175, 83, 83);
+}
+
+.center {
+    border-radius: 5px;
+    color: floralwhite;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 40px;
+    width: max-content;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.center:hover {
+    box-shadow: 1px 1px 5px 4px rgb(20, 137, 247);
+}
