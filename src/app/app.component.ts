@@ -12,18 +12,23 @@ export class AppComponent implements OnInit {
   connectionString: string;
   isConnected: boolean;
 
-  ngOnInit() {
+  constructor() {
     this.pushJSObj = {
       body: "This is where the notification goes.'",
       icon: 'assets/angular.png',
       timeout: 4000,
       // requireInteraction: true,
       tag: 'push-notification',
+      silent: true,
       onClick: function () {
         window.focus();
         this.close();
       }
     };
+
+  }
+
+  ngOnInit() {
 
     // It only registers when server running on Signed certificate
     navigator.serviceWorker.register('assets/js/sw.js').then((data) => {
