@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1592729245299,
+  "timestamp": 1592729570176,
   "index": "https://gauravbist14workspace.github.io/sample-pushjs/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://gauravbist14workspace.github.io/sample-pushjs/favicon.ico",
         "https://gauravbist14workspace.github.io/sample-pushjs/index.html",
-        "https://gauravbist14workspace.github.io/sample-pushjs/main-es2015.3fe2ea83fd7b1831fc53.js",
-        "https://gauravbist14workspace.github.io/sample-pushjs/main-es5.3fe2ea83fd7b1831fc53.js",
+        "https://gauravbist14workspace.github.io/sample-pushjs/main-es2015.9f44726db27f91fb90d6.js",
+        "https://gauravbist14workspace.github.io/sample-pushjs/main-es5.9f44726db27f91fb90d6.js",
         "https://gauravbist14workspace.github.io/sample-pushjs/manifest.webmanifest",
         "https://gauravbist14workspace.github.io/sample-pushjs/polyfills-es2015.5b10b8fd823b6392f1fd.js",
         "https://gauravbist14workspace.github.io/sample-pushjs/polyfills-es5.8e50a9832860f7cf804a.js",
@@ -55,9 +55,9 @@
     "https://gauravbist14workspace.github.io/sample-pushjs/assets/js/sw.js": "02027132cd8ae8f5a6a50dc6d91f9d53acf51358",
     "https://gauravbist14workspace.github.io/sample-pushjs/assets/json/my-blocker-firebase-adminsdk-t9ueh-6ae410bde4.json": "71e6be3dc4f51e8839d5f6d4ef8a60bfe1f05103",
     "https://gauravbist14workspace.github.io/sample-pushjs/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://gauravbist14workspace.github.io/sample-pushjs/index.html": "5638d61e7c3757da1a7a5de502bed964b6f9480b",
-    "https://gauravbist14workspace.github.io/sample-pushjs/main-es2015.3fe2ea83fd7b1831fc53.js": "e8390dccc8f6c5ff34de6a28c05214a96a0cdcfc",
-    "https://gauravbist14workspace.github.io/sample-pushjs/main-es5.3fe2ea83fd7b1831fc53.js": "4670674b4620a6474b49d82cb48d1fb6f8ecbdfd",
+    "https://gauravbist14workspace.github.io/sample-pushjs/index.html": "80c976529b8219566750aadc4f56e22a77b9a05c",
+    "https://gauravbist14workspace.github.io/sample-pushjs/main-es2015.9f44726db27f91fb90d6.js": "01563ab57489160e4b1a5f00946bbdcc28b68023",
+    "https://gauravbist14workspace.github.io/sample-pushjs/main-es5.9f44726db27f91fb90d6.js": "f8bf2a4d9c39b29477796acab12c1063ee27f3b2",
     "https://gauravbist14workspace.github.io/sample-pushjs/manifest.webmanifest": "8f75ebc77d8ed4acc36a3fe26353f2c3dcfe56f6",
     "https://gauravbist14workspace.github.io/sample-pushjs/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
     "https://gauravbist14workspace.github.io/sample-pushjs/polyfills-es5.8e50a9832860f7cf804a.js": "a09a6044f37c73c715665663d2dcb61f666618a1",
